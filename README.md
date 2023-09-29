@@ -5,9 +5,9 @@ In this project we created a UML model, after which we provided a description of
 To test the project, open the "access" folder and open the file 'project' with Microsoft Access. 
 To test it, enter the following data:
 
-PATIENT: ​
-FiscalCode: MNTDTT93E08I754Q​
-Password: dfghi549​
+PATIENT: ​//
+FiscalCode: MNTDTT93E08I754Q​ //
+Password: dfghi549​ //
 ​
 SPECIALIZED PRACTITIONER:​
 FiscalCode: BNCLRT62A01F205T​
